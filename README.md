@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mzeydkurt
-- 👀 I’m interested in codes
+- 👀 I’m interested in MIS
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me zeydhfz10@gmail.com
 
