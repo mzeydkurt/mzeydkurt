@@ -1,4 +1,4 @@
-Tabii, her bir veri yapısını daha da detaylandırarak anlatayım. Ayrıca her bir bölümü, kopyalanabilecek ve bağımsız olarak çalıştırılabilecek şekilde ayırarak örneklendireceğim.
+
 
 ### Diziler (Arrays)
 
