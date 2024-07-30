@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzeydkurt
 - 💻I'm a student of Management Information Systems
-- 👀 I’m interested in AI,Data Science
+- 👀 I’m interested in AI,Data Science,Python
 - 📫 reach me m.zeydkurt@outlook.com
 
 <!---
