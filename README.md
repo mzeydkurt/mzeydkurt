@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mzeydkurt
+<h1>HI! I AM @m.zeydkurt</h1>
 - 💻I'm a student of Management Information Systems
 - 👀 I’m interested in AI,Data Science,Python
 - 📫 reach me m.zeydkurt@outlook.com
