@@ -4,7 +4,7 @@ user_input = input("İndirmek İstediğiniz Videonun Linkini Giriniz : ")
 try:
     # İndirme ayarlarını tanımla
     ydl_opts = {
-        'format': 'best',
+        'format': 'best', #en yüksek kalite için bestvideo+bestaudio/best
         'outtmpl': '%(title)s.%(ext)s',
     }
 
