@@ -1,17 +1,14 @@
-- 🙋‍♂️ HI! I'm Muhammed Zeyd KURT
+# 🙋‍♂️ HI! I'm Muhammed Zeyd KURT
 - 💻I'm a student of Management Information Systems
 - 👀 I’m interested in AI,Data Science,Python,ERP,C#
 - 📫 reach me m.zeydkurt@outlook.com
-  
-<h2 align = "left" > My Socials</h2>
-<p></p>
-<p></p>
-<a href = "https://www.linkedin.com/in/zeyd-kurt/" target = "blank">
-  <img align = "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyd-kurt/"
-    height = "30" weight = "40"
-></a>
 
-<h3 align="left">Languages and Tools:</h3>
+
+#  My Socials 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyd-kurt/)
+
+
+#  Languages and Tools
 <img src="https://skillicons.dev/icons?i=py,anaconda,c,cs,pycharm,mysql" alt="My Skills" width="500" height="50">
 
 
