@@ -18,3 +18,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+| **Enerji Kaynağı**      | **Enerji Yoğunluğu (kWh/kg)** |
+|--------------------------|-------------------------------|
+| Lityum-İyon Batarya      | 0.1 - 0.3                     |
+| Kurşun-Asit Batarya      | 0.03 - 0.05                   |
+| **Fosil Yakıtlar**       |                               |
+| Benzin                   | 12.0                          |
+| Dizel                    | 11.8                          |
+| Doğal Gaz (Metan)        | 13.8                          |
